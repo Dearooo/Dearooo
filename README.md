@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dearooo
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Web Development, HTML5, CSS3 and JavaScript
+- 🌱 I’m currently learning Web Development, C#, HTML5, CSS3 and JavaScript
 - 👾 I'm Computational science student in Brazil
 
 🌎Social network🌎
